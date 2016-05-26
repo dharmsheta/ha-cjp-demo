@@ -2,6 +2,10 @@
 
 Based on https://documentation.cloudbees.com/docs/cje-user-guide/ha-sect-tutorial.html
 
+**Architecture**
+
+![alt text](https://github.com/cloudbees/ha-cjp-demo/blob/master/HA-with-CJP.png)
+
 **Pre-Requisites:**
  - Vagrant  
  - Virtualbox
@@ -10,7 +14,7 @@ Based on https://documentation.cloudbees.com/docs/cje-user-guide/ha-sect-tutoria
 
 **Step 1:**  clone this repository
 
-**Step 2:**  Bring up the whole cluster 
+**Step 2:**  Bring up the whole cluster
 > vagrant up
 
 **Step 3:** Once the all boxes are up, you can check:
