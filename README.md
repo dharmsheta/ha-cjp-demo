@@ -4,7 +4,7 @@ Based on https://documentation.cloudbees.com/docs/cje-user-guide/ha-sect-tutoria
 
 **Architecture**
 
-![alt text](https://github.com/cloudbees/ha-cjp-demo/blob/master/HA-with-CJP.png)
+![alt text](https://github.com/dharmsheta/ha-cjp-demo/blob/master/HA-with-CJP.png)
 
 **Pre-Requisites:**
  - Vagrant  
